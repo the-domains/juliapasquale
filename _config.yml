@@ -12,4 +12,8 @@ color:
     - '#FFFFA6'
 layout_spectrum: 0.9446545159444213
 name: Julia Pasquale
+navigation:
+  - name: Welcome
+    id: 57a7cae1-7d2f-430b-8c8a-2954a08ed35a
+    type: content
 title: Julia Pasquale
